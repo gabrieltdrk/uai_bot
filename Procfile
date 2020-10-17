@@ -1,1 +1,1 @@
-DEFAULT_PORT = process.env.port || 8080 
+worker: node index.js
